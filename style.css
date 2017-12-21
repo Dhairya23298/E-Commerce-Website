@@ -1,0 +1,158 @@
+.jumbotron {
+background: #358CCE;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
+.navbar.navbar-default.navbar-fixed-top.navbar-inverse{
+	background-color: #358CCE;
+}
+.title{
+	color:#fff;
+	border:1px solid #fff;
+	padding:5px;
+	border-radius:3px;
+}
+.paddingtop{
+	padding-top: 50px;
+}
+.title:hover{
+	 color:#999;
+}
+.headpad{
+	padding-bottom: 250px;
+}
+.footer{
+	background: #1275bf;
+	padding:20px 0;
+}
+.header{
+	text-align: center;
+	
+}
+.paddingbot{
+	padding-bottom: 15px;
+}
+.footer a {
+  color: #8c278a;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #8c278a;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #8c278a;
+}
+.footer a:hover {
+  color: white;
+}
+.dropdown ul li a:hover{
+	background-color: #b9cf99;
+}
+.glyphicon.glyphicon-shopping-cart{
+	padding-right: 5px;
+	color:#FFA40D;
+}
+.nav.navbar-nav.navbar-right li a:focus{
+	background-color: #12bfe3;
+}
+.nav.navbar-nav.navbar-right li a:active{
+	background: #fff;
+}
+.copyright{
+	text-align: center;
+	color: white;
+}
+.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:focus,.navbar-inverse .navbar-nav>.active>a:hover{
+	background: #F1BA0A;
+}
+.enquiry{
+	margin-top: -3px;
+}
+.query{
+	margin-left: 300px;
+}
+.footer a {
+  color: #8c278a;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #8c278a;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #8c278a;
+}
+.footer a:hover {
+  color: white;
+}
+.cartext{
+	color:#2c4277;
+}
+.btn-spl{
+	background: #8D48C8;
+	padding: 5px;
+	color: #fff;
+	margin-top: 10px;
+}
+.left{
+	padding-left: 0;
+	margin-left: 0;
+}
+.heading{
+	text-align: center;
+	padding: 20px 0;
+}
+.img-circle{
+	width: 300px;
+}
+.call-to-action{
+	border:1px solid #DFDFDF;
+	padding:10px
+}
+.one{
+	color:#2E0C0C;
+}
+.two{
+	color:#F4292C;
+}
+.paddingleft{
+	padding-left: 100px;
+	padding-bottom: 50px;
+}
+.three{
+	color:#20450E;
+}
+.height{
+	text-align: justify;
+	font-size:13px;
+	padding-bottom: 10px;
+}
+.navigation{
+	color:#4286f4;
+}
+.space{
+	margin-top: 50px;
+}
+.btn-next{
+	border: 1px solid #1093F1;
+	margin-left: 5px;
+}
+.gap{
+	text-align: center;
+	padding-bottom: 10px;
+}
+.footer{
+	background: #1275bf;
+	padding: 20px 0;
+}
+.copyright{
+	text-align: center;
+	color: #fff;
+}
